@@ -13,6 +13,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 150px;
 }
 
 .with-haf {
@@ -36,4 +37,10 @@ section {
 .top-banar {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.drime-big {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
